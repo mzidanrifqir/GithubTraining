@@ -1,2 +1,2 @@
 # GithubTraining
-Repository guna belajar GitHub
+Repository gawe belajar GitHub
