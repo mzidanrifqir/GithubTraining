@@ -1,2 +1,3 @@
 # GithubTraining
-Repository guna belajar GitHub
+
+Repository diperuntukan untuk belajar GitHub dan pengembanganya
